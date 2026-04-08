@@ -14,7 +14,7 @@
 
 ## ⚡ The Engineer Behind the Code
 
-I don’t just write functions; I design **reliable environments**. My focus lies at the intersection of **Backend Architecture** and **Product Thinking**. I specialize in building systems that don't just work—they scale and recover.
+I don’t just write functions; I design **reliable environments**. My focus lies at the intersection of **Backend Architecture** and **Product Thinking**. I specialize in building systems that don't just work-they scale and recover.
 
 ### 🧠 Core Philosophy
 * **Predictable State:** Whether it's a payment or a socket connection, state must be immutable and verified.
