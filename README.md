@@ -46,7 +46,6 @@ I don’t just write functions; I design **reliable environments**. My focus lie
 | Focus Area | Approach |
 | :--- | :--- |
 | **Real-time Systems** | Event-driven architecture using Socket.io for low-latency state syncing. |
-| **Payment Integrity** | Implementing multi-step verification and idempotent transactions. |
 | **Database Design** | Balancing normalization in SQL and flexible schemas in NoSQL for performance. |
 | **System Security** | JWT-based auth flows, signature verification, and secure environment handling. |
 
