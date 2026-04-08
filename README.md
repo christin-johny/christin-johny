@@ -1,64 +1,91 @@
-# 👋 Hi, I'm Christin Johny
+<h1 align="center">Christin Johny</h1>
+<h3 align="center">Building Real-World Backend Systems with MERN 🚀</h3>
 
-### 🚀 Full Stack (MERN) Developer | Backend Focused
-
-I build scalable and production-ready web applications with a strong focus on backend systems, real-time communication, and secure payment integrations.
-
----
-
-## 💼 What I Do
-
-- 🔧 Build full-stack applications using MERN stack  
-- ⚡ Design scalable backend architectures  
-- 🔐 Implement secure authentication systems (Session / JWT)  
-- 💳 Integrate payment gateways (Razorpay)  
-- ☁️ Deploy applications using AWS (EC2, S3)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Focused+Full+Stack+Developer;Real-time+Systems+%7C+Payment+Workflows;From+Idea+to+Production;MERN+Stack+Engineer&center=true&width=520&height=50">
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Who I Am
 
-### 🔹 Tyrex – E-Commerce Tyre Platform  
+I don’t just build apps — I build **systems that behave like real products**.
+
+From handling **payments and wallets** to designing **real-time architectures**,  
+I focus on solving problems the way production applications do.
+
+---
+
+## ⚙️ What I Actually Build
+
+- 🛒 E-commerce systems with **wallets, coupons & order lifecycle**
+- 💳 Payment workflows with **secure backend verification (Razorpay)**
+- 📡 Real-time applications using **Socket.io**
+- 🧠 Scalable backend architectures with **clean separation of concerns**
+- 📊 Admin systems for **analytics & operational control**
+
+---
+
+## 🚀 Featured Work
+
+### 🛒 Tyrex — Multi-Brand Tyre Marketplace  
 🌐 https://tyre-x.shop/  
-A full-featured e-commerce platform for tyre sales with wallet system, coupons, Razorpay integration, and admin analytics dashboard.
+
+A complete e-commerce system built from scratch with:
+
+- Wallet system (refunds, referrals, payments)
+- Coupon engine (min/max logic)
+- Secure Razorpay integration (signature verification)
+- Full order lifecycle with return handling
+- Admin analytics dashboard
 
 ---
 
-### 🔹 Servofixo – Technician Booking Platform  
-Real-time service booking platform using Socket.io with zone-based technician assignment and live status updates.
+### 🔧 Servofixo — Real-Time Technician Booking  
+🌐 https://servofixo.cloud/  
+
+A system designed for **real-time service operations**:
+
+- Live booking updates using Socket.io  
+- Zone-based technician assignment  
+- Status tracking (enroute → work → completed)  
+- Scalable backend handling concurrent users  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend:**  
-React.js, Redux Toolkit, Tailwind CSS, Bootstrap  
-
-**Backend:**  
-Node.js, Express.js, REST APIs, MVC Architecture  
-
-**Database:**  
-MongoDB, MySQL  
-
-**Tools & Technologies:**  
-Git, GitHub, AWS (EC2, S3), Docker, Postman  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,aws,docker,git" />
+</p>
 
 ---
 
-## 📊 What Makes Me Different
+## ⚡ Engineering Strengths
 
-- 🔥 Real-world project experience (not just tutorials)  
-- ⚙️ Strong backend and system design understanding  
-- 📦 Built complex features like wallet, coupon engine, and real-time systems  
-- 🧠 Focus on clean architecture and scalable code  
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
-- 📧 Email: christinjohnymankuthel@gmail.com  
+- Designing **state-driven systems** (orders, bookings, payments)
+- Handling **edge cases & data consistency**
+- Writing **modular, maintainable backend code**
+- Thinking in terms of **systems, not just features**
 
 ---
 
-⭐️ *Currently open to Full Stack / Backend Developer opportunities*
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=christin-johny&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christin-johny&theme=radical" height="150"/>
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/christin-johny-b15280212">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:christinjohnymankuthel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
