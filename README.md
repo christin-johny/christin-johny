@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=SYSTEM+ARCHITECT;MERN+STACK+ENGINEER;BACKEND+SPECIALIST" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=FULLSTACK DEVELOPER;MERN+STACK+ENGINEER;BACKEND+SPECIALIST" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -58,9 +58,6 @@ I don’t just write functions; I design **reliable environments**. My focus lie
   <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=christin-johny&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=christin-johny&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=false" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=christin-johny&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
