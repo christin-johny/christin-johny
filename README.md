@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=CHRISTIN+JOHNY;SYSTEM+ARCHITECT;MERN+STACK+ENGINEER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=CHRISTIN+JOHNY;MERN+STACK+ENGINEER" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christin-johny&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christin-johny&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -58,9 +58,9 @@ I don’t just write functions; I design **reliable environments**. My focus lie
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=christin-johny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christin-johny&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Christin's GitHub stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=christin-johny&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
