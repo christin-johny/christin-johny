@@ -1,13 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Christin%20Johny&fontSize=70&animation=fadeIn" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=CHRISTIN+JOHNY;MERN+STACK+ENGINEER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=SYSTEM+ARCHITECT;MERN+STACK+ENGINEER;BACKEND+SPECIALIST" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <b>Crafting production-grade systems where data integrity meets real-time performance.</b>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christin-johny&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -17,9 +17,9 @@
 I don’t just write functions; I design **reliable environments**. My focus lies at the intersection of **Backend Architecture** and **Product Thinking**. I specialize in building systems that don't just work—they scale and recover.
 
 ### 🧠 Core Philosophy
-- **Predictable State:** Whether it's a payment or a socket connection, state must be immutable and verified.
-- **Fail-Safe Design:** Architecting with the "Happy Path" is easy; I build for the edge cases.
-- **Modular Thinking:** Writing code that is a joy for the next developer to read.
+* **Predictable State:** Whether it's a payment or a socket connection, state must be immutable and verified.
+* **Fail-Safe Design:** Architecting with the "Happy Path" is easy; I build for the edge cases.
+* **Modular Thinking:** Writing code that is a joy for the next developer to read.
 
 ---
 
@@ -55,11 +55,15 @@ I don’t just write functions; I design **reliable environments**. My focus lie
 ## 📈 System Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christin-johny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=christin-johny&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christin-johny&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=christin-johny&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christin-johny&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
